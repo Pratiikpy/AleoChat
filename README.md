@@ -2,7 +2,7 @@
 
 
 This is a private chat system that allows users to send and receive encrypted messages using zero-knowledge cryptography. It is built using the [Leo programming language] and the [Aleo platform], which enable developers to write, run, and host fully private applications on a decentralized network.
-
+# Discord : 0xprtk.eth
 ## Features
 
 - Users can generate and share a QR code that contains their secret key, so that they can easily scan it with their devices and join the chat session.
